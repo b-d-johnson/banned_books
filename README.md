@@ -1,3 +1,5 @@
+*Optional: Create a virtual environment.
+
 To run the notebooks:
 
 1. `git lfs clone git@github.com:b-d-johnson/banned_books.git`
