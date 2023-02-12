@@ -5,6 +5,7 @@ To run the notebooks:
 1. `git lfs clone git@github.com:b-d-johnson/banned_books.git`
 2. `cd banned_books`
 3. `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
+4. `jupyter notebook`
 
 ## Datasets
 
