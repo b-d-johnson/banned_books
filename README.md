@@ -1,7 +1,7 @@
 To run the notebooks:
 
-1. `git clone` the repo
-2. `cd` into the directory
+1. `git lfs clone git@github.com:b-d-johnson/banned_books.git`
+2. `cd banned_books`
 3. `pip install requirements.txt` or `pip3 install requirements.txt`
 
 ## Datasets
